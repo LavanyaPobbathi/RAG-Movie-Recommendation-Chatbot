@@ -59,6 +59,10 @@ To set up and run the RAG Movie Recommendation Chatbot, follow these steps:
 1. Run the Streamlit application:
    ```bash
    streamlit run app.py
-   
+
+## Acknowledgements
+    1. OpenAI for providing powerful models that drive the recommendation engine.
+    2. LanceDB for the high-performance vector database that powers the semantic search.
+    3. Dataset collected from Kaggle platform
 2. Access the application via your web browser at http://localhost:8501.
 3. Enter your preferences and query in the application interface to receive personalized anime recommendations.

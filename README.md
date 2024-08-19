@@ -6,8 +6,6 @@ The RAG (Retrieval-Augmented Generation) Movie Recommendation Chatbot is an inte
 
 ## Workflow
 
-The following diagram illustrates the overall workflow of the RAG Movie Recommendation Chatbot:
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <div style="flex: 1; padding: 10px;">
         <p>The following diagram illustrates the overall workflow of the RAG Movie Recommendation Chatbot:</p>

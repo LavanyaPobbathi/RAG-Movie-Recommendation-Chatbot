@@ -45,16 +45,19 @@ To set up and run the RAG Movie Recommendation Chatbot, follow these steps:
    cd rag-movie-recommendation-chatbot
    
 2. Install the required dependencies:
+   ```bash
    pip install -r requirements.txt
 
 3. Set up your OpenAI API key by creating a .env file and adding your API key:
+   ```bash
    OPENAI_API_KEY=your_openai_api_key
 
-4. Prepare the dataset by placing your anime_with_synopsis.csv file in the root directory of the project.
+5. Prepare the dataset by placing your anime_with_synopsis.csv file in the root directory of the project.
 
 ## Usage
 
 1. Run the Streamlit application:
+   ```bash
    streamlit run app.py
    
 2. Access the application via your web browser at http://localhost:8501.
